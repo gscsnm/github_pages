@@ -26,7 +26,7 @@ tags: libvirt;开发指南; 教程; libvirt_Application_Development_Guides
 在PDF和纸质版本，本手册使用的字体 Liberation Fonts字体集。Liberation Fonts还用于HTML版本。如果没有安装，字体显示。 注意:Red Hat Enterprise Linux 5以后默认包括Liberation Fonts。
 
 ### 1.1 排版约定
-
+<!--more-->
 四个排版约定是用来提醒特定的词汇和短语。 约定如下。
 
 ##### Mono-spaced 粗体

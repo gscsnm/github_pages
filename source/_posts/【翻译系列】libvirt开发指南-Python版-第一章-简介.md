@@ -22,7 +22,7 @@ tags: libvirt;开发指南; 教程; libvirt_Application_Development_Guides
 
 Libvirt hypervisor-independent虚拟化API和工具包，基于自由软件在GNU通用公共许可证，可用于各种操作系统中。  
 本章介绍libvirt并定义常用术语。
-
+<!--more-->
 ## 1.1 概述
 
 Libvirt提供了一个通用、稳定的层来安全的管理域节点。节点可能是部署在远程物理机上，所以在Hypervisor支持的范围内，libvirt提供了方法来创建、修改、监管、控制、迁移和停止主机。虽然可以同时访问多个节点，但仅限于对单节点进行操作。    

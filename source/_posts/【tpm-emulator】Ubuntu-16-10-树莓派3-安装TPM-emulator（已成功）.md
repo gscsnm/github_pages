@@ -26,7 +26,7 @@ Ubuntu 16.10 桌面版 （服务器版也行）
 
 	sudo apt-get install cmake
 
-
+<!--more-->
 # 3. 安装GNU MP library  
 两种方式安装：apt-get 、源码
 

@@ -24,7 +24,7 @@ tags: libvirt;开发指南; 教程; libvirt_Application_Development_Guides
 在libvirt中，连接是每一个指令（动作action）和对象的基础。每个想要与libvirt交互的实体（entity），像virsh、virt-manager或一个使用libvirt库的程序，都需要首先获得一个与主机中libvirt守护进程的连接。这个连接不仅描述了虚拟化技术的类型(qemu,xen,uml等)，而且还描述了任何一种必要的身份认证方法。
 
 ## 3.1 概述
-
+<!--more-->
 libvirt代理（libvirt agent）必须做的第一件事就是调用 **virInitialize** 函数，或调用一个Python libvirt的连接函数获得的一个实例**virConnect** 类。这个实例将用于后续的操作。Python libvirt模块连接到一个资源提供了三种不同的方法:
 ```python
 conn = libvirt.open(name)

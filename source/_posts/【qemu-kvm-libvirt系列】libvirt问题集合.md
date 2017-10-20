@@ -32,6 +32,8 @@ tags: libvirt; kvm; qemu-kvm
 权限问题我遇到几次，对kvm不是很熟悉，所以你懂得....
 先描述我的情况：  
 
+<!--more-->
+
 第一种情况：
 
 ``` bash

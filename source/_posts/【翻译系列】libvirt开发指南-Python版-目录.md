@@ -31,7 +31,7 @@ tags: libvirt;开发指南; 教程; libvirt_Application_Development_Guides
 1. 简介  
   1.1. 概述   
   1.2. 术语表
-
+<!--more-->
 2. 结构    
   2.1. 对象模型    
   2.1.1. 连接Hypervisor    

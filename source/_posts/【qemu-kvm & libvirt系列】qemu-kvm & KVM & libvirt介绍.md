@@ -39,7 +39,7 @@ tags: libvirt, kvm, qemu-kvm
 ----
 
 # KVM & QEMU & Libvirt介绍
-
+<!--more-->
 ## KVM
 (Kernel-based Virtual Machine的简称)，
 是一个开源的系统虚拟化模块，自Linux2.6.20之后集成在Linux的各个主要发行版本中。
