@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: GSCSNM
-subtitle: 慎独
-description: 慎 独
-author: Liu Yan
+title: い十指演绎生活〃
+subtitle: 
+description: 慎独
+author: い十指演绎生活〃
 language: zh-Hans
 timezone: Asia/Shanghai
+avatar: /images/shinubi.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
